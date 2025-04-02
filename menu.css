@@ -40,6 +40,7 @@ body{
 #buttoncontainer{
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
 }
 .button{
     min-width: 100px;
